@@ -21,7 +21,7 @@ const Hero = () => {
             Gargi Pandey
           </h2>
           <h3 className="text-4xl md:text-6xl font-bold mb-8 text-[hsl(var(--primary))]">
-            Digital Marketing Specialist
+            Communications and Copy Specialist
           </h3>
           <p className="text-xl md:text-2xl text-[hsl(var(--muted-foreground))] mb-12 max-w-2xl mx-auto">
             Crafting impactful campaigns for B2C, B2B, and D2C brands with 4.5
